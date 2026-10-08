@@ -10,6 +10,5 @@ list_4 = [1,2,3,4,5]
 list_4.append(6)
 print(list_4)
 
-final_list = list_4 + list_3 
-print(final_list) 
+
 

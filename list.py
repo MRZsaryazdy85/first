@@ -9,6 +9,6 @@ print(List_3[0:3])
 list_4 = [1,2,3,4,5]
 list_4.append(6)
 print(list_4)
-
-
-
+num = list_4.pop(6)
+print(num)
+print(list_4)

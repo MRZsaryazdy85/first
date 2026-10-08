@@ -2,7 +2,8 @@ import random
 
 my_numbers = [] 
 for i in range(1,11):
-    my_numbers.append(i)
+    new_number = random.randint(1,11)
+    my_numbers.append(new_number)
     
    
     
